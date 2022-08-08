@@ -15,4 +15,9 @@
 We build cool stuff for film fans.
 
 If you love douban, IMDb, bilibili.com and/or Netflix, 
-try [The GamMaan Movie Helper(a.k.a.jwksext)](https://github.com/ggt1024/extguide) browser extension show movie ratings, narrations and watch links on these sites.
+try 🍿 [The GamMaan Movie Helper(a.k.a.jwksext)](https://v2.ext.ggt1024.com/) browser extension show movie ratings, narrations and watch links on these sites.
+
+
+我们专注为影视爱好者开发效率工具和相关软件，提升观影体验。
+
+如果您喜欢豆瓣、IMDb、哔哩哔哩或 Netflix，快来体验「伽马影迷插件」，它可以在前面提到几个网站上显示电影评分、短视频解说和片源信息。
