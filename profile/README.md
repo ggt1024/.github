@@ -24,3 +24,6 @@ try 🍿 [FilmBudd Extension](https://docs.ggt1024.com/extension/) 🍿 browser 
 
 
 关注微信公众号「伽马影迷」，不定期分享关于电影的一切和抽奖！
+
+
+![image](https://user-images.githubusercontent.com/63030915/199382515-b33bf08a-2a5a-4a1b-b3d4-d4af36d06e87.png)
