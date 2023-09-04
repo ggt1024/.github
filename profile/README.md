@@ -16,9 +16,3 @@ We build cool stuff for film fans.
 
 If you love IMDb and/or Netflix, 
 try 🍿 [FilmBudd Extension](https://docs.ggt1024.com/ext/) 🍿 browser extension shows ratings and productivity tools on these sites.
-
-----
-
-我们专注为电影爱好者开发效率工具和相关软件，提升观影体验。
-
-如果您喜欢 IMDb、烂番茄、MetaCritic 或 Netflix，快来体验 🍿「[伽马影迷插件](https://docs.ggt1024.com/ext/)」 🍿，它可以在前面提到几个网站上显示电影评分数据和百宝箱效率工具。
