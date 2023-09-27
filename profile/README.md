@@ -13,6 +13,3 @@
 
 
 We build cool stuff for film fans.
-
-If you love IMDb and/or Netflix, 
-try 🍿 [FilmBudd Extension](https://docs.ggt1024.com/ext/) 🍿 browser extension shows ratings and productivity tools on these sites.
